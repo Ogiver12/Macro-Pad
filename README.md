@@ -1,5 +1,5 @@
 # Macro Pad
-![Cover](images/Cover.png)
+![Cover](https://github.com/Ogiver12/Macro-Pad/blob/471ee9f40557a50dfb4dfee4417041786ad61c72/Images/Cover.png)
 
 ### This repo contains the files to create a 3x3 macro pad
 ## Why
