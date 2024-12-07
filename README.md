@@ -1,5 +1,5 @@
 # Macro Pad
-![Cover](/Images/Cover.png)
+![Cover](Images/Cover.png)
 
 ### This repo contains the files to create a 3x3 macro pad
 ## Why
@@ -28,6 +28,11 @@ Shipping for KB2040 + Keycaps UK | £3.90
 As I live in England I have cheaper shipping so the total may vary for you  <br>
 This doesnt include PCB or case because I did those my self <br>
 The PCB might be a bit weird because my PCB machine has limits
+
+## Instructions
+
+We will be using circuit python <br>
+To install follow [this](https://learn.adafruit.com/adafruit-kb2040/circuitpython) guide and the download link is [here](https://circuitpython.org/board/adafruit_kb2040/)
 
 ## Images
 ![The pcb in KiCad](Images/pcb_editor.png)
