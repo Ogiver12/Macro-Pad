@@ -1,5 +1,5 @@
 # Macro Pad
-![Cover](https://github.com/Ogiver12/Macro-Pad/blob/471ee9f40557a50dfb4dfee4417041786ad61c72/Images/Cover.png)
+![Cover](/Images/Cover.png)
 
 ### This repo contains the files to create a 3x3 macro pad
 ## Why
@@ -30,4 +30,4 @@ This doesnt include PCB or case because I did those my self <br>
 The PCB might be a bit weird because my PCB machine has limits
 
 ## Images
-![The pcb in KiCad](images/pcb_editor.png)
+![The pcb in KiCad](Images/pcb_editor.png)
