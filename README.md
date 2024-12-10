@@ -4,7 +4,7 @@
 ### This repo contains the files to create a 3x3 macro pad
 ## Why
 **Why you need a macro pad**
-- It boosts your productivity
+- It makes you faster at using your pc
 - You can use it for hotkeys that you dont have space for on your normal keyboard
 - It can automate lots of things
 
@@ -12,7 +12,7 @@
 <br>**Why would I make one instead of buying**
 - Its cheaper
 - Its funner
-- It gives you expierience
+- Its pretty cool
 
 
 ## Buy List
